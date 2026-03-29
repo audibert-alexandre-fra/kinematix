@@ -48,7 +48,9 @@ Kinematix includes a simple and user-friendly web interface designed for physiot
 
 ## 🎥 Demo
 
-![demo](demo.gif)
+<video width="100%" controls autoplay loop muted style="border-radius: 10px;">
+  <source src="output.mp4" type="video/mp4">
+</video>
 
 ---
 
